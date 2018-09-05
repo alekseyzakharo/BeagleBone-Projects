@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: wdtimer.c
-//CMPT 433 - Assignment 5
+//Baremetal Project: wdtimer.c
 
 #include "dmtimer.h"
 #include "soc_AM335x.h"

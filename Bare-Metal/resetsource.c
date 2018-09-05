@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: resetsource.c
-//CMPT 433 - Assignment 5
+//Baremetal Project: resetsource.c
 
 #include <stdint.h>
 #include "hw_types.h"

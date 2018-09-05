@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: led.c
-//CMPT 433 - Assignment 5
+//Baremetal Project: led.c
 
 #include "soc_AM335x.h"
 #include "beaglebone.h"

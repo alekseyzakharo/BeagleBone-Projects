@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: timer.h
-//CMPT 433 - Assignment 5
+//Baremetal Project: timer.h
 
 #ifndef _TIMER_H_
 #define _TIMER_H_

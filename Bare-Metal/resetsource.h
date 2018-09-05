@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: resetsource.h
-//CMPT 433 - Assignment 5
+//Baremetal Project: resetsource.h
 
 #ifndef _RESETSOURCE_H_
 #define _RESETSOURCE_H_

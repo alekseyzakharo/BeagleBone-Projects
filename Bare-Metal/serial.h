@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: serial.h
-//CMPT 433 - Assignment 5
+//Baremetal Project: serial.h
 
 #ifndef _SERIAL_H_
 #define _SERIAL_H_

@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: led.h
-//CMPT 433 - Assignment 5
+//Baremetal Project: led.h
 
 #ifndef _LED_H_
 #define _LED_H_

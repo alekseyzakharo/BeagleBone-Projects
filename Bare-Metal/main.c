@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: main.c
-//CMPT 433 - Assignment 5
+//Baremetal Project: main.c
 
 #include "consoleUtils.h"
 #include <stdint.h>
@@ -101,8 +99,7 @@ int main(void)
 	STOP = false;
 
 	//Welcome Message
-	ConsoleUtilsPrintf("\nLightBouncer:\n"
-					"\tby Aleksey Zakharov\n---------------------------\n");
+	ConsoleUtilsPrintf("\nLightBouncer:\n");
 
 	//print reset register
 	Resetsource_PrintAndResetRegister();

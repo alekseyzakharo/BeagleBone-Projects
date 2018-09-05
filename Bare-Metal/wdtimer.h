@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: wdtimer.h
-//CMPT 433 - Assignment 5
+//Baremetal Project: wdtimer.h
 
 #ifndef WDTIMER_H_
 #define WDTIMER_H_

@@ -1,6 +1,4 @@
-//Aleksey Zakharov 301295506
-//Barebone Assignment: Joystick.h
-//CMPT 433 - Assignment 5
+//Baremetal Project: Joystick.h
 
 #ifndef _JOYSTICK_H_
 #define _JOYSTICK_H_
