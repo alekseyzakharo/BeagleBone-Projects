@@ -9,3 +9,6 @@ single Snare drum play to the current drum beat. Forces in the Y orientation tri
 orientation trigger a Hihat drum.
 
 Apart from controling the BeagleBone with manually, the user has a web interface which connects to the BeagleBone.
+
+Interface:
+![alt text](as3-server/web-interface.jpg)
