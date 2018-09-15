@@ -1,5 +1,4 @@
-//Assignment#4
-//By: Aleksey Zakharov 301295506
+//Morsecode project
 
 #include <linux/module.h>
 #include <linux/miscdevice.h>		// for misc-driver calls.
