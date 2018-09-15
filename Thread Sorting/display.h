@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 2
 // display.h
 // Display Module:
 // Contains 14-segment display related functions.

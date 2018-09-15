@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 2
 // main.c
 
 #include <stdio.h>

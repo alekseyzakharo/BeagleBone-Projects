@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 2
 // network.h
 // Network Module:
 // Contains networking related functions.

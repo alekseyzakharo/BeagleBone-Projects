@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 2
 // potentiometer.c
 // Potentiometer Module:
 // Contains potentiometer related functions.

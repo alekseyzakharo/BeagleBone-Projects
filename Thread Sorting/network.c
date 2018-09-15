@@ -1,6 +1,4 @@
-// CMPT 433 - Assignment 2
-// network.c
-// Network Module:
+// Network Module .c
 // Contains networking related functions.
 
 #include <stdio.h>
@@ -16,13 +14,11 @@
 #include "potentiometer.h"
 #include "sorter.h"
 
-
 #define MSG_MAX_LEN 1024
 #define MAX_LINES 220
 #define MAX_CHAR_PER_LINE 100
 #define PORT 12345
 #define INT_TO_CHAR_MULT 6
-
 
 // Static Functions
 static void *listenUDP();
@@ -70,7 +66,6 @@ static void *listenUDP()
 //	printf("Start Network Thread!\n");
 	pthread_detach(pthread_self());
 
-	printf("Brian's Net Listen Test on UDP port %d:\n", PORT);
 	printf("Connect Using: \n");
 	printf("netcat -u 192.168.7.2 %d\n", PORT);
 

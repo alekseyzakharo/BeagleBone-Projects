@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 2
 // main.h
 // Main Module:
 // Contains utility functions used by other modules.

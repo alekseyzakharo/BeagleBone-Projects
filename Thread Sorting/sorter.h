@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 2
 // sorter.h
 // Sorter Module:
 // Contains sorter related functions.
