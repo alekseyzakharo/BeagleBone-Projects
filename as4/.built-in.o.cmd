@@ -1,0 +1,1 @@
+cmd_/home/osboxes/cmpt433/work/as4/built-in.o :=  rm -f /home/osboxes/cmpt433/work/as4/built-in.o; /home/osboxes/cmpt433/work/bb-kernel/dl/gcc-linaro-5.4.1-2017.05-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcsD /home/osboxes/cmpt433/work/as4/built-in.o
