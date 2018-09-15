@@ -1,0 +1,15 @@
+{
+  "name": "as3-server",
+  "version": "1.0.0",
+  "description": "CMPT 433 - Assignment 3 Web Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
