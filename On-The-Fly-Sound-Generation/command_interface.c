@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 3
 // command_interface.c
 // Command Interface Module
 // Contains methods to control audio, tempo, and sound

@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 3
 // network.c
 // Network Module
 // Contains networking related functions.

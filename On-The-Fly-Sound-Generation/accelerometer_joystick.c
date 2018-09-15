@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 3
 // accelerometer_joystick.c
 // Accelerometer and Joystick Module:
 // Contains accelerometer and joystick related functions.

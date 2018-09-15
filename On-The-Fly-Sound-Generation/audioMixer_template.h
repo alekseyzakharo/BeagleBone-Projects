@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 3
 // audioMixer_template.c
 // Audio Mixer Module Stolen from Brian Fraser
 // Contains Audio Mixer functions to play sounds

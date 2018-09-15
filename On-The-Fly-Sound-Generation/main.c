@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 3
 // main.c
 // Main Module:
 // Contains utility functions used by other modules.
@@ -23,7 +22,7 @@ int main(int argc, char** argv)
 
 	while(1)
 	{
-
+		//This project does not exit other than closing the down the process, although it does have clean up functions
 	}
 
 	//functions that will never get called

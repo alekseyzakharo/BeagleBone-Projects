@@ -1,4 +1,3 @@
-// CMPT 433 - Assignment 3
 // drumbeat.h
 // Drum Beat Generation Module:
 // Contains methods to create drum beats and sounds
